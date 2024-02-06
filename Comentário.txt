@@ -1,0 +1,1 @@
+Para comentar no Java script eu uso // para uma linha ou/* texto*/ para mais de uma linha. Ja no html<!-- Texto-->
